@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: #BFEAF5;
+}
+select{
+    margin-bottom: 3%;
+    border-radius: 5%;
+    background-color: #FCFFB2;
+}
+button{
+    margin-left: 3%;
+    border-radius: 10%;
+    background-color: #FFD3A3;
+    border-color: #F3BCC8;
+    cursor: pointer;
+}
+.button:active {
+    background-color: #FFD3A3;
+    color: #F3BCC8;
+  }
+#scorecontainer{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background-color: #FFD3A3;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 400%;
+    color: #0079FF;
+}
